@@ -11,8 +11,8 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  device_info_plus: ^8.0.0
-  intl: ^0.17.0
+  device_info_plus: '4.0.0'
+  intl: ^0.18.0
   tapped: ^2.0.0
   animations: ^2.0.0
   left_scroll_actions: ^2.0.0
